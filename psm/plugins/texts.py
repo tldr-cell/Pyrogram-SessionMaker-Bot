@@ -6,7 +6,7 @@ I can make session strings for you on the go
 
 helptext1 = """
 **📖 Help (1 of 3)**
-you can get API_ID and API_HASH value by visiting https://my.telegram.org or @usetgxbot
+you can get API_ID and API_HASH value by visiting https://my.telegram.org
 """
 
 helptext2 = """
