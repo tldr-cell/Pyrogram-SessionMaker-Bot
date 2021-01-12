@@ -53,7 +53,7 @@ async def tip_button1(_, query):
         [
             InlineKeyboardButton("Previous", callback_data="help_3"),
             InlineKeyboardButton(
-                "Source", url="https://github.com/pokurt/Pyrogram-SessionMaker-Bot"
+                "Source", url="https://github.com/tldr-cell/Pyrogram-SessionMaker-Bot"
             ),
         ]
     ]
